@@ -1,0 +1,6 @@
+__ignore__
+window
+door
+staircase
+ladder
+curtain_wall
